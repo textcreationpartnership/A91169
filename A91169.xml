@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration and protestation of the peers, lords, and barons of this realme, against the late treasonable proceedings, and tyrannicall usurpations of some members of the Commons House, who endeavour to subvert the fundamentall laws and regall government of this kingdom, and enslave the people to their boundlesse tyranny instead of freedom. February 8. 1648.</title>
+            <author>Prynne, William, 1600-1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91169</idno>
+            <idno type="STC">Wing P3937</idno>
+            <idno type="STC">Thomason 669.f.13[84]</idno>
+            <idno type="STC">ESTC R211211</idno>
+            <idno type="EEBO-CITATION">99869941</idno>
+            <idno type="PROQUEST">99869941</idno>
+            <idno type="VID">162980</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91169)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162980)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f13[84])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration and protestation of the peers, lords, and barons of this realme, against the late treasonable proceedings, and tyrannicall usurpations of some members of the Commons House, who endeavour to subvert the fundamentall laws and regall government of this kingdom, and enslave the people to their boundlesse tyranny instead of freedom. February 8. 1648.</title>
+                  <author>Prynne, William, 1600-1669.</author>
+                  <author>England and Wales. Parliament. House of Lords, attributed name.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. By William Prynne. Cf. Wing. Pretends to be from the House of Lords, and apparently accepted as such by Steele; but the Lords was voted 'ought to be abolished' by the Commons on 6 February and last met that day -- Cf. Foster, p. 207.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Being engaged by conscience and the Covenant they protest that the authority of the realm is in the King and Peers, not in the Commons, who cannot judge but only impeach before the Lords. They protest against the trial of the King, the disinheriting of the Prince, the new Court of Justice, the acting without Royal Commission, the vote abolishing the Peers (6 Feb.), and repudiate all acts, ordinances, &amp;c. of this Parliament -- Cf. Steele.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament. --  House of Lords --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament. --  House of Commons --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:162980:1" rendition="simple:additions"/>
+            <head>A
+DECLARATION
+AND
+PROTESTATION
+Of the Peers, Lords, and Barons of this Realme, againſt the late Treaſonable Proceedings,
+and Tyrannicall Vſurpations of ſome Members of the Commons Houſe, who endeavour to ſubvert the Fundamentall Laws
+and Regall Government of this Kingdom, and enſlave the People to their boundleſſe Tyranny inſtead of Freedom.</head>
+            <opener>
+               <dateline>
+                  <date>February 8. 1648.</date>
+               </dateline>
+            </opener>
+            <p>WEE the <hi>Peeres, Lords</hi> and <hi>Barons</hi> of this Realme of <hi>England,</hi> for the preſent neceſſary <hi>Vindication</hi> of the Un<g ref="char:EOLhyphen"/>doubted
+<hi>Rights and Priviledges of Parliament,</hi> and more particularly of the <hi>Houſe of Peers,</hi> the juſt <hi>Prerogatives</hi>
+and perſonall ſafety of our <hi>Kings,</hi> the <hi>known Lawes</hi> and <hi>Liberties of this Kingdome,</hi> the Hereditary <hi>Freedome</hi> of
+all the <hi>Freemen of this Nation,</hi> and our owne <hi>affronted</hi> and <hi>contemned Honors</hi> and <hi>Authority,</hi> againſt the many
+late unparallel'd <hi>dangerous Invaſions</hi> and <hi>treaſonable Uſurpations</hi> of a few inſolent miſ-adviſed <hi>Members of the</hi>
+(late) <hi>Houſe of Commons,</hi> whiles the greateſt and ableſt part of that <hi>Houſe</hi> were forcibly derained or deter'd from thence, where
+with we find our ſelves and the whole Kingdome unſufferably <hi>injured</hi> and deeply afflicted: Do, after a long patient expectation
+of their own ingenious <hi>Retractations</hi> of ſuch <hi>uniuſtifiable Exorbitances</hi> (which their own judgements and conſciences cannot but
+condemne whereof we now utterly diſpaire; being thereto engaged in point of <hi>Honour, Loyalty, Conſcience, Oath,</hi> and love to
+our <hi>Native Country,</hi> as alſo by our <hi>Solemne League and Covenant,</hi> publikely declare and proteſt to all the world; That by the
+Lawes and Cuſtomes of this <hi>Realm;</hi> &amp; Uſage of Parliament time out of mind, ever ſince there were <hi>Parliaments</hi> in this <hi>Iſland,</hi> the
+principall <hi>Authority</hi> and <hi>Judicatory of the Parliaments of England</hi> hath alwayes conſtantly reſided, and ought ſtill to continue on<g ref="char:EOLunhyphen"/>ly
+in the <hi>King</hi> and Houſe <hi>of Peers,</hi> (wherein he alwayes ſits) and not in the <hi>Commons houſe;</hi> who never had, claimed, nor ought to
+have any right or power to <hi>iudge</hi> any <hi>Perſon</hi> or <hi>cauſe</hi> civilly or criminally [having no <hi>Authority</hi> to examine any <hi>witneſses upon
+Oath,</hi> and being no <hi>Court of Record</hi>) but only to accuſe and <hi>impeach Delinquents</hi> in and before the <hi>houſe of Peeres.</hi> where they
+alwayes have uſed to <hi>stand bare-headed</hi> at their Barre; but never yet to ſtand covered, much leſſe to ſit, vote or give <hi>Iudgement.</hi>
+And that the Houſe of <hi>Commons</hi> without the concurrent aſſent of the houſe <hi>of Peers,</hi> and <hi>Kings</hi> of <hi>England,</hi> never heretofore
+challenged nor enjoyed, nor can of right pretend to any <hi>lawfull power</hi> or <hi>Iurisdiction</hi> to make or publiſh any firm or binding <hi>Or<g ref="char:EOLhyphen"/>dinance,
+Vote, Act, or Acts</hi> of <hi>Parliament</hi> whatſoever, nor ever once preſumed to paſſe any Act or Acts to erect a new <hi>high
+court of Instice,</hi> to try, condemn, or execute the meaneſt <hi>Subiect,</hi> leaſt of all their owne <hi>Soveraign Lord and King,</hi> or any <hi>Peere
+of the Kingdome</hi> (who by the <hi>Common</hi> and <hi>Statute Lawes</hi> of this <hi>Realm,</hi> and <hi>Magna Charta, ought to be tryed only by their Peeres</hi> and
+not otherwiſe) or to <hi>diſinherit the Right heir to the Crowne,</hi> or to alter the <hi>Fundamentall Government, Lawes, Great Seale,</hi> or <hi>anci<g ref="char:EOLhyphen"/>ent
+formes of proceſs and legal Proceedings</hi> of this Realm, or to make or declare <hi>High-Treaſon</hi> to be no <hi>Treaſon;</hi> or any Act to be
+<hi>Treaſon,</hi> which in it ſelfe, or by the Law of the Land is <hi>no Treaſon;</hi> or to diſpoſe of any Offices or places of Iudicature, or im<g ref="char:EOLhyphen"/>poſe
+any <hi>penalties, Oaths, or Taxes,</hi> on the Subjects of this Realme. And therefore we doe here in the preſence of Almighty God,
+Angells, and Men, from our hearts <hi>diſclaime, abhor,</hi> and <hi>proteſt against</hi> all <hi>Acts, Votes, Orders or Ordinances</hi> of the ſaid <hi>Members
+of the Commons houſe</hi> lately made and publiſhed, for ſetting up any <hi>New court of Juſtice</hi> to try, condemen, or execute the <hi>King,</hi> or
+any <hi>Peer</hi> or <hi>Subiect of this</hi> Realm: (which for any perſon or perſons to ſit in or act as a <hi>Iudg</hi> or <hi>Commiſſioner,</hi> to the condemning or
+taking away the life of the <hi>K.</hi> or any <hi>Peer or</hi> other ſubject, we declare to be High Treaſon and wilfull Murther) to difinherit the
+<hi>Prince of Wales</hi> of the Crowne of England, or againſt proclaiming him King after his <hi>Royall Faehers</hi>late moſt impious, Trayte<g ref="char:EOLhyphen"/>rous
+and barbarous murther, or to alter the <hi>Monarchicall Government, Lawes; Great Seale, Iudicatories, and ancient</hi> formes of
+writs, and legall proceſs and proceedings; or to keepe up or make good any Commiſſions, Iudges or Officers, made voyd by
+the Kings bloody execution; or to continue any old, or raiſe any new forces or Armyes; or to impoſe any <hi>New Taxes, Payments,
+Oathes</hi> or forfeitures on the Subjects, or to take away any of their lives, Liberties or Eſtates againſt the fundamentall lawes of
+the Realme, or to make any new <hi>Iudges, Iuſtices or Officers;</hi> Or ſet aſide the <hi>Houſe</hi> of <hi>Peers</hi> (farr ancienter then the <hi>Commons</hi> houſe)
+and particularly this inſolent and frantique vote of theirs, Febr. 6. (<hi>That the Houſe of Peers in Parliament is uſeleſſe and dangerous
+and ought to be aboliſhed, and that an act be brought in for that purpoſe</hi>) to be not only <hi>void, null,</hi> and <hi>illegall</hi> in themſelves by the
+<hi>Lawes and Statutes</hi> of this Realme, but likewiſe <hi>Treaſonable, Deteſtable, Tyrannicall, and deſtructive to the Priviledges, Rights and
+being of Parliaments,</hi> the juſt <hi>Prerogatives</hi> and perſonall ſafety of the <hi>Kings of England,</hi> the <hi>fundamentall Government and Lawes</hi>
+of the Realme, the Lives, Liberties, Propertyes and Eſtates of the People, and the moſt tranſcendent <hi>Tyranny and Uſurpation over
+the King, Kingdome, Parliament, Peers, Commons, and</hi> Freeemen of <hi>England</hi> ever practiſed or attempted in any age, tending only
+to diſhonor, enſlave, and deſtroy this ancient flouriſhing Kingdome, and ſet up <hi>Anarchy</hi> and confuſion in all places.</p>
+            <p>All which exorbitant and Trayterous <hi>Uſurpations:</hi> Wee, and all free-born Engliſh men are by all obligations bound to oppoſe
+to the uttermoſt with ovr lives and forunes leaſt we ſhould be acceſſories to our own and our poſterities ſlavery and ruine, for
+preventing whereof we have lately ſpent ſo much blood and, Treaſure, againſt the Malignant party, whoſe Treaſons and inſo<g ref="char:EOLhyphen"/>lences
+they farre exceed</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
